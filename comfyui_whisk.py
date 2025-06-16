@@ -20,7 +20,7 @@ class WhiskNode:
     def _initialize_auth(self):
         try:
             current_dir = os.path.dirname(os.path.abspath(__file__))
-            config_file_path = os.path.join(current_dir, 'googel.json')
+            config_file_path = os.path.join(current_dir, 'google.json')
 
             with open(config_file_path, 'rb') as file:
                 content = file.read()
@@ -35,7 +35,7 @@ class WhiskNode:
             self.cookies = {cookie['name']: cookie['value'] for cookie in self.auth_config.get('cookies', [])}
 
             if not self.access_token:
-                raise ValueError("Access token not found in googel.json")
+                raise ValueError("Access token not found in google.json")
 
         except Exception as e:
             print(f"Authentication initialization error: {str(e)}")

@@ -7,7 +7,7 @@
 <a href="https://ainewsto.com"> <img alt="Static Badge" src="https://img.shields.io/badge/Comfyui_forum-online-fffd01.svg"> </a>
 # 👋🏻 如何设置api（非官方）?
 ## 视频教程地址：https://www.bilibili.com/video/BV1NnrCYCE9d
-## 请打开googel.json文件，如下图所示
+## 请打开google.json文件，如下图所示
 
 ![3736698276867701ade5ba6e8f34545](https://github.com/user-attachments/assets/5914fa4a-db9a-4552-8b36-6adc4b7eaffd)
 
@@ -29,7 +29,7 @@
 > \[!IMPORTANT]\
 > 非官方api，所以随时都有可能被毙掉，而且也有封号风险，被封别怪我，别怪我，别怪我！且用且珍惜！！~
 > 
-> googel.json里面填写的信息都是有时效性的，如果突然在comfyui里面报错401就考虑更新下
+> google.json里面填写的信息都是有时效性的，如果突然在comfyui里面报错401就考虑更新下
 >
 > 国内用户需要魔法，需要魔法，需要魔法，而且最佳是美国ip！！！！！不然不行，不然不行，不然不行！！！
 >
