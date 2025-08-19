@@ -357,3 +357,4 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "ComfyUI-Whisk": "ComfyUI-Whisk🌪️",
     "ComfyUI-Whisk-Prompts": "ComfyUI-Whisk-Prompts🌪️"
 }
+
